@@ -25,10 +25,4 @@ cd reactjs-portfolio-mern-website
 npm install
 npm run start
 ``````````````````````````````````````
-Open http://localhost:9002 to view it in the browser.
 
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
-### License
-This project is licensed under the [MIT License](LICENSE)
